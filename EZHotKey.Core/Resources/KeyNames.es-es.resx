@@ -1,0 +1,248 @@
+﻿<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="0x01" xml:space="preserve">
+        <value>Botón Izquierdo del Ratón</value>
+    </data>
+    <data name="0x02" xml:space="preserve">
+        <value>Botón Derecho del Ratón</value>
+    </data>
+    <data name="0x04" xml:space="preserve">
+        <value>Botón Central del Ratón</value>
+    </data>
+    <data name="0x05" xml:space="preserve">
+        <value>Botón Atrás del Ratón</value>
+    </data>
+    <data name="0x06" xml:space="preserve">
+        <value>Botón Adelante del Ratón</value>
+    </data>
+    <data name="0x08" xml:space="preserve">
+        <value>Retroceso</value>
+    </data>
+    <data name="0x09" xml:space="preserve">
+        <value>Tabulador</value>
+    </data>
+    <data name="0x0C" xml:space="preserve">
+        <value>Tecla CLEAR ⌧</value>
+    </data>
+    <data name="0x10" xml:space="preserve">
+        <value>Tecla Shift</value>
+    </data>
+    <data name="0xA0" xml:space="preserve">
+        <value>Tecla Shift (Izquierda)</value>
+    </data>
+    <data name="0xA1" xml:space="preserve">
+        <value>Tecla Shift (Derecha)</value>
+    </data>
+    <data name="0x11" xml:space="preserve">
+        <value>Tecla Control</value>
+    </data>
+    <data name="0x12" xml:space="preserve">
+        <value>Tecla Alt</value>
+    </data>
+    <data name="0x13" xml:space="preserve">
+        <value>Tecla Pausa</value>
+    </data>
+    <data name="0x14" xml:space="preserve">
+        <value>Bloqueo Mayúscula</value>
+    </data>
+    <data name="0x1B" xml:space="preserve">
+        <value>Tecla Escape</value>
+    </data>
+    <data name="0x20" xml:space="preserve">
+        <value>Barra Espaciadora</value>
+    </data>
+    <data name="0x23" xml:space="preserve">
+        <value>Tecla Fin</value>
+    </data>
+    <data name="0x24" xml:space="preserve">
+        <value>Tecla Inicio</value>
+    </data>
+    <data name="0x25" xml:space="preserve">
+        <value>Flecha Izquierda</value>
+    </data>
+    <data name="0x26" xml:space="preserve">
+        <value>Flecha Arriba</value>
+    </data>
+    <data name="0x27" xml:space="preserve">
+        <value>Flecha Derecha</value>
+    </data>
+    <data name="0x28" xml:space="preserve">
+        <value>Flecha Abajo</value>
+    </data>
+    <data name="0x6A" xml:space="preserve">
+        <value>Tecla Multiplicar</value>
+    </data>
+    <data name="0x6B" xml:space="preserve">
+        <value>Tecla Sumar</value>
+    </data>
+    <data name="0x6C" xml:space="preserve">
+        <value>Tecla Separador</value>
+    </data>
+    <data name="0x6D" xml:space="preserve">
+        <value>Tecla Restar</value>
+    </data>
+    <data name="0x6E" xml:space="preserve">
+        <value>Tecla Decimal</value>
+    </data>
+    <data name="0x6F" xml:space="preserve">
+        <value>Tecla Dividir</value>
+    </data>
+    <data name="0x60" xml:space="preserve">
+        <value>Pad Numérico 0</value>
+    </data>
+    <data name="0x61" xml:space="preserve">
+        <value>Pad Numérico 1</value>
+    </data>
+    <data name="0x62" xml:space="preserve">
+        <value>Pad Numérico 2</value>
+    </data>
+    <data name="0x63" xml:space="preserve">
+        <value>Pad Numérico 3</value>
+    </data>
+    <data name="0x64" xml:space="preserve">
+        <value>Pad Numérico 4</value>
+    </data>
+    <data name="0x65" xml:space="preserve">
+        <value>Pad Numérico 5</value>
+    </data>
+    <data name="0x66" xml:space="preserve">
+        <value>Pad Numérico 6</value>
+    </data>
+    <data name="0x67" xml:space="preserve">
+        <value>Pad Numérico 7</value>
+    </data>
+    <data name="0x68" xml:space="preserve">
+        <value>Pad Numérico 8</value>
+    </data>
+    <data name="0x69" xml:space="preserve">
+        <value>Pad Numérico 9</value>
+    </data>
+    <data name="0x5B" xml:space="preserve">
+        <value>Tecla Windows Izquierda</value>
+    </data>
+    <data name="0x5C" xml:space="preserve">
+        <value>Tecla Windows Derecha</value>
+    </data>
+    <data name="0x5D" xml:space="preserve">
+        <value>Tecla Aplicaciones</value>
+    </data>
+    <data name="0x5F" xml:space="preserve">
+        <value>Tecla Hibernar</value>
+    </data>
+    <data name="0x41" xml:space="preserve">
+        <value>Tecla A</value>
+    </data>
+    <data name="0x42" xml:space="preserve">
+        <value>Tecla B</value>
+    </data>
+    <data name="0x43" xml:space="preserve">
+        <value>Tecla C</value>
+    </data>
+    <data name="0x44" xml:space="preserve">
+        <value>Tecla D</value>
+    </data>
+    <data name="0x45" xml:space="preserve">
+        <value>Tecla E</value>
+    </data>
+    <data name="0x46" xml:space="preserve">
+        <value>Tecla F</value>
+    </data>
+    <data name="0x47" xml:space="preserve">
+        <value>Tecla G</value>
+    </data>
+    <data name="0x48" xml:space="preserve">
+        <value>Tecla H</value>
+    </data>
+    <data name="0x49" xml:space="preserve">
+        <value>Tecla I</value>
+    </data>
+    <data name="0x4A" xml:space="preserve">
+        <value>Tecla J</value>
+    </data>
+    <data name="0x4B" xml:space="preserve">
+        <value>Tecla K</value>
+    </data>
+    <data name="0x4C" xml:space="preserve">
+        <value>Tecla L</value>
+    </data>
+    <data name="0x4D" xml:space="preserve">
+        <value>Tecla M</value>
+    </data>
+    <data name="0x4E" xml:space="preserve">
+        <value>Tecla N</value>
+    </data>
+    <data name="0x4F" xml:space="preserve">
+        <value>Tecla O</value>
+    </data>
+    <data name="0x50" xml:space="preserve">
+        <value>Tecla P</value>
+    </data>
+    <data name="0x51" xml:space="preserve">
+        <value>Tecla Q</value>
+    </data>
+    <data name="0x52" xml:space="preserve">
+        <value>Tecla R</value>
+    </data>
+    <data name="0x53" xml:space="preserve">
+        <value>Tecla S</value>
+    </data>
+    <data name="0x54" xml:space="preserve">
+        <value>Tecla T</value>
+    </data>
+    <data name="0x55" xml:space="preserve">
+        <value>Tecla U</value>
+    </data>
+    <data name="0x56" xml:space="preserve">
+        <value>Tecla V</value>
+    </data>
+    <data name="0x57" xml:space="preserve">
+        <value>Tecla W</value>
+    </data>
+    <data name="0x58" xml:space="preserve">
+        <value>Tecla X</value>
+    </data>
+    <data name="0x59" xml:space="preserve">
+        <value>Tecla Y</value>
+    </data>
+    <data name="0x5A" xml:space="preserve">
+        <value>Tecla Z</value>
+    </data>
+    <data name="0x30" xml:space="preserve">
+        <value>Fila Numérica 0</value>
+    </data>
+    <data name="0x31" xml:space="preserve">
+        <value>Fila Numérica 1</value>
+    </data>
+    <data name="0x32" xml:space="preserve">
+        <value>Fila Numérica 2</value>
+    </data>
+    <data name="0x33" xml:space="preserve">
+        <value>Fila Numérica 3</value>
+    </data>
+    <data name="0x34" xml:space="preserve">
+        <value>Fila Numérica 4</value>
+    </data>
+    <data name="0x35" xml:space="preserve">
+        <value>Fila Numérica 5</value>
+    </data>
+    <data name="0x36" xml:space="preserve">
+        <value>Fila Numérica 6</value>
+    </data>
+    <data name="0x37" xml:space="preserve">
+        <value>Fila Numérica 7</value>
+    </data>
+    <data name="0x38" xml:space="preserve">
+        <value>Fila Numérica 8</value>
+    </data>
+</root>

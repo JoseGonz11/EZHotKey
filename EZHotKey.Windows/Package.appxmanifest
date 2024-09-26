@@ -9,14 +9,14 @@
 
   <Identity
     Name="76a82ee3-9135-40a8-961a-4858d17ae440"
-    Publisher="CN=Radeo"
+    Publisher="CN=JoseGonz_11"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="76a82ee3-9135-40a8-961a-4858d17ae440" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>EZHotKey.Windows</DisplayName>
-    <PublisherDisplayName>Radeo</PublisherDisplayName>
+    <PublisherDisplayName>JoseGonz_11</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

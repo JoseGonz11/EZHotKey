@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="0x01" xml:space="preserve">
+        <value>Left Mouse Button</value>
+    </data>
+    <data name="0x02" xml:space="preserve">
+        <value>Right Mouse Button</value>
+    </data>
+    <data name="0x04" xml:space="preserve">
+        <value>Center Mouse Button</value>
+    </data>
+    <data name="0x03" xml:space="preserve">
+        <value>Control-break processing</value>
+    </data>
+    <data name="0x05" xml:space="preserve">
+        <value>Mouse Back Button</value>
+    </data>
+    <data name="0x06" xml:space="preserve">
+        <value>Mouse Forward Button</value>
+    </data>
+    <data name="0x08" xml:space="preserve">
+        <value>Backspace</value>
+    </data>
+    <data name="0x09" xml:space="preserve">
+        <value>TAB</value>
+    </data>
+    <data name="0x0C" xml:space="preserve">
+        <value>CLEAR Key ⌧</value>
+    </data>
+    <data name="0x0D" xml:space="preserve">
+        <value>Enter</value>
+    </data>
+    <data name="0x10" xml:space="preserve">
+        <value>Any Shift Key</value>
+    </data>
+    <data name="0xA0" xml:space="preserve">
+        <value>Left SHIFT Key</value>
+    </data>
+    <data name="0xA1" xml:space="preserve">
+        <value>Right SHIFT Key</value>
+    </data>
+    <data name="0x11" xml:space="preserve">
+        <value>Any Control Key</value>
+    </data>
+    <data name="0x12" xml:space="preserve">
+        <value>Any Alt Key</value>
+    </data>
+    <data name="0x13" xml:space="preserve">
+        <value>Pause Key</value>
+    </data>
+    <data name="0x14" xml:space="preserve">
+        <value>Caps Lock</value>
+    </data>
+    <data name="0x1B" xml:space="preserve">
+        <value>ESC Key</value>
+    </data>
+    <data name="0x20" xml:space="preserve">
+        <value>Spacebar</value>
+    </data>
+    <data name="0x21" xml:space="preserve">
+        <value>PageUp</value>
+    </data>
+    <data name="0x22" xml:space="preserve">
+        <value>PageDown</value>
+    </data>
+    <data name="0x23" xml:space="preserve">
+        <value>END Key</value>
+    </data>
+    <data name="0x24" xml:space="preserve">
+        <value>HOME Key</value>
+    </data>
+    <data name="0x25" xml:space="preserve">
+        <value>Left Arrow Key</value>
+    </data>
+    <data name="0x26" xml:space="preserve">
+        <value>Up Arrow Key</value>
+    </data>
+    <data name="0x27" xml:space="preserve">
+        <value>Right Arrow Key</value>
+    </data>
+    <data name="0x28" xml:space="preserve">
+        <value>Down Arrow Key</value>
+    </data>
+    <data name="0x29" xml:space="preserve">
+        <value>SELECT Key</value>
+    </data>
+    <data name="0x2A" xml:space="preserve">
+        <value>PRINT Key</value>
+    </data>
+    <data name="0x2B" xml:space="preserve">
+        <value>EXECUTE Key</value>
+    </data>
+    <data name="0x2C" xml:space="preserve">
+        <value>PRINT SCREEN Key</value>
+    </data>
+    <data name="0x2D" xml:space="preserve">
+        <value>INSERT Key</value>
+    </data>
+    <data name="0x2E" xml:space="preserve">
+        <value>DELETE Key</value>
+    </data>
+    <data name="0x2F" xml:space="preserve">
+        <value>HELP Key</value>
+    </data>
+    <data name="0x30" xml:space="preserve">
+        <value>Num 0 Key</value>
+    </data>
+    <data name="0x31" xml:space="preserve">
+        <value>Num 1 Key</value>
+    </data>
+    <data name="0x32" xml:space="preserve">
+        <value>Num 2 Key</value>
+    </data>
+    <data name="0x33" xml:space="preserve">
+        <value>Num 3 Key</value>
+    </data>
+    <data name="0x34" xml:space="preserve">
+        <value>Num 4 Key</value>
+    </data>
+    <data name="0x35" xml:space="preserve">
+        <value>Num 5 Key</value>
+    </data>
+    <data name="0x36" xml:space="preserve">
+        <value>Num 6 Key</value>
+    </data>
+    <data name="0x37" xml:space="preserve">
+        <value>Num 7 Key</value>
+    </data>
+    <data name="0x38" xml:space="preserve">
+        <value>Num 8 Key</value>
+    </data>
+    <data name="0x39" xml:space="preserve">
+        <value>Num 9 Key</value>
+    </data>
+    <data name="0x41" xml:space="preserve">
+        <value>A Key</value>
+    </data>
+    <data name="0x42" xml:space="preserve">
+        <value>B Key</value>
+    </data>
+    <data name="0x43" xml:space="preserve">
+        <value>C Key</value>
+    </data>
+    <data name="0x44" xml:space="preserve">
+        <value>D Key</value>
+    </data>
+    <data name="0x45" xml:space="preserve">
+        <value>E Key</value>
+    </data>
+    <data name="0x46" xml:space="preserve">
+        <value>F Key</value>
+    </data>
+    <data name="0x47" xml:space="preserve">
+        <value>G Key</value>
+    </data>
+    <data name="0x48" xml:space="preserve">
+        <value>H Key</value>
+    </data>
+    <data name="0x49" xml:space="preserve">
+        <value>I Key</value>
+    </data>
+    <data name="0x4A" xml:space="preserve">
+        <value>J Key</value>
+    </data>
+    <data name="0x4B" xml:space="preserve">
+        <value>K Key</value>
+    </data>
+    <data name="0x4C" xml:space="preserve">
+        <value>L Key</value>
+    </data>
+    <data name="0x4D" xml:space="preserve">
+        <value>M Key</value>
+    </data>
+    <data name="0x4E" xml:space="preserve">
+        <value>N Key</value>
+    </data>
+    <data name="0x4F" xml:space="preserve">
+        <value>O Key</value>
+    </data>
+    <data name="0x50" xml:space="preserve">
+        <value>P Key</value>
+    </data>
+    <data name="0x51" xml:space="preserve">
+        <value>Q Key</value>
+    </data>
+    <data name="0x52" xml:space="preserve">
+        <value>R Key</value>
+    </data>
+    <data name="0x53" xml:space="preserve">
+        <value>S Key</value>
+    </data>
+    <data name="0x54" xml:space="preserve">
+        <value>T Key</value>
+    </data>
+    <data name="0x55" xml:space="preserve">
+        <value>U Key</value>
+    </data>
+    <data name="0x56" xml:space="preserve">
+        <value>V Key</value>
+    </data>
+    <data name="0x57" xml:space="preserve">
+        <value>W Key</value>
+    </data>
+    <data name="0x58" xml:space="preserve">
+        <value>X Key</value>
+    </data>
+    <data name="0x59" xml:space="preserve">
+        <value>Y Key</value>
+    </data>
+    <data name="0x5A" xml:space="preserve">
+        <value>Z Key</value>
+    </data>
+    <data name="0x5B" xml:space="preserve">
+        <value>Left Windows Key</value>
+    </data>
+    <data name="0x5C" xml:space="preserve">
+        <value>Right Windows Key</value>
+    </data>
+    <data name="0x5D" xml:space="preserve">
+        <value>Apps Key</value>
+    </data>
+    <data name="0x5F" xml:space="preserve">
+        <value>Sleep Key</value>
+    </data>
+    <data name="0x60" xml:space="preserve">
+        <value>NumPad 0</value>
+    </data>
+    <data name="0x61" xml:space="preserve">
+        <value>NumPad 1</value>
+    </data>
+    <data name="0x62" xml:space="preserve">
+        <value>NumPad 2</value>
+    </data>
+    <data name="0x63" xml:space="preserve">
+        <value>NumPad 3</value>
+    </data>
+    <data name="0x64" xml:space="preserve">
+        <value>NumPad 4</value>
+    </data>
+    <data name="0x65" xml:space="preserve">
+        <value>NumPad 5</value>
+    </data>
+    <data name="0x66" xml:space="preserve">
+        <value>NumPad 6</value>
+    </data>
+    <data name="0x67" xml:space="preserve">
+        <value>NumPad 7</value>
+    </data>
+    <data name="0x68" xml:space="preserve">
+        <value>NumPad 8</value>
+    </data>
+    <data name="0x69" xml:space="preserve">
+        <value>NumPad 9</value>
+    </data>
+    <data name="0x6A" xml:space="preserve">
+        <value>Multiply Key</value>
+    </data>
+    <data name="0x6B" xml:space="preserve">
+        <value>Add Key</value>
+    </data>
+    <data name="0x6C" xml:space="preserve">
+        <value>Separator Key</value>
+    </data>
+    <data name="0x6D" xml:space="preserve">
+        <value>Subtract Key</value>
+    </data>
+    <data name="0x6E" xml:space="preserve">
+        <value>Decimal Key</value>
+    </data>
+    <data name="0x6F" xml:space="preserve">
+        <value>Divide Key</value>
+    </data>
+    <data name="0x70" xml:space="preserve">
+        <value>F1 Key</value>
+    </data>
+    <data name="0x87" xml:space="preserve">
+        <value>F24 Key</value>
+    </data>
+    <data name="0x71" xml:space="preserve">
+        <value>F2 Key</value>
+    </data>
+    <data name="0x72" xml:space="preserve">
+        <value>F3 Key</value>
+    </data>
+    <data name="0x73" xml:space="preserve">
+        <value>F4 Key</value>
+    </data>
+    <data name="0x74" xml:space="preserve">
+        <value>F5 Key</value>
+    </data>
+    <data name="0x75" xml:space="preserve">
+        <value>F6 Key</value>
+    </data>
+    <data name="0x76" xml:space="preserve">
+        <value>F7 Key</value>
+    </data>
+    <data name="0x77" xml:space="preserve">
+        <value>F8 Key</value>
+    </data>
+    <data name="0x78" xml:space="preserve">
+        <value>F9 Key</value>
+    </data>
+    <data name="0x79" xml:space="preserve">
+        <value>F10 Key</value>
+    </data>
+    <data name="0x7A" xml:space="preserve">
+        <value>F11 Key</value>
+    </data>
+    <data name="0x7B" xml:space="preserve">
+        <value>F12 Key</value>
+    </data>
+    <data name="0x7C" xml:space="preserve">
+        <value>F13 Key</value>
+    </data>
+    <data name="0x7D" xml:space="preserve">
+        <value>F14 Key</value>
+    </data>
+    <data name="0x7E" xml:space="preserve">
+        <value>F15 Key</value>
+    </data>
+    <data name="0x7F" xml:space="preserve">
+        <value>F16 Key</value>
+    </data>
+    <data name="0x80" xml:space="preserve">
+        <value>F17 Key</value>
+    </data>
+    <data name="0x81" xml:space="preserve">
+        <value>F18 Key</value>
+    </data>
+    <data name="0x82" xml:space="preserve">
+        <value>F19 Key</value>
+    </data>
+    <data name="0x83" xml:space="preserve">
+        <value>F20 Key</value>
+    </data>
+    <data name="0x84" xml:space="preserve">
+        <value>F21 Key</value>
+    </data>
+    <data name="0x85" xml:space="preserve">
+        <value>F22 Key</value>
+    </data>
+    <data name="0x86" xml:space="preserve">
+        <value>F23 Key</value>
+    </data>
+</root>

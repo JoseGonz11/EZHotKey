@@ -1,7 +1,7 @@
 ﻿namespace EZHotKey.Core
 {
-    public class IButtonCombo
+    public interface ITrigger
     {
-
+        
     }
 }
