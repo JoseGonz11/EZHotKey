@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EZHotKey.Windows (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EZHotKey.Windows (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
