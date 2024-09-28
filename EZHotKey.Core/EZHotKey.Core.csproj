@@ -8,9 +8,17 @@
 
   <ItemGroup>
     <EmbeddedResource Update="Resources\KeyNames.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>KeyNames.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="TODO.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,7 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="TODO.txt" />
+    <Folder Include="Properties\" />
   </ItemGroup>
 
 </Project>

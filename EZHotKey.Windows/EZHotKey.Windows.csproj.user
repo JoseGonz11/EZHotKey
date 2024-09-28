@@ -4,7 +4,7 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>EZHotKey.Windows (Unpackaged)</ActiveDebugProfile>
+    <ActiveDebugProfile>EZHotKey.Windows (Package)</ActiveDebugProfile>
   </PropertyGroup>
   <ItemGroup>
     <None Update="App.xaml">

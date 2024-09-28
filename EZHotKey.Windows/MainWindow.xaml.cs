@@ -15,6 +15,7 @@ using Windows.Foundation.Collections;
 using System.Resources;
 using Windows.System;
 using EZHotKey.Core;
+using EZHotKey.Core.Resources;
 
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
@@ -26,14 +27,14 @@ namespace EZHotKey.Windows
     /// </summary>
     public sealed partial class MainWindow : Window
     {
-        private readonly string resxFile = @"..\..\..\..\..\..\EZHotKey.Core\Resources\KeyNames.resx";
+        //private readonly string resxFile = @"..\..\..\..\..\..\EZHotKey.Core\Resources\KeyNames.resx";
         public MainWindow()
         {
             this.InitializeComponent();
-            
+
         }
 
-        private void myButton_Click(object sender, RoutedEventArgs e)
+        private void MyButton_Click(object sender, RoutedEventArgs e)
         {
             myButton.Content = "Clicked";
         }
@@ -43,22 +44,21 @@ namespace EZHotKey.Windows
             //int vkey = e.Key
             string key = TryGetTranslate(e) == null ? e.Key.ToString() : TryGetTranslate(e);
             TextBlockItem.Text = $"Key: {key}";
-            TextBlockItemKeyCode.Text = $"KeyCode: {((int)e.Key).ToString()}";
-            TextBlockItemKeyByteCode.Text = $"Key ByteCode: 0x{((int)e.Key).ToString("X2")}";
+            TextBlockItemKeyCode.Text = $"KeyCode: {(int)e.Key}";
+            TextBlockItemKeyByteCode.Text = $"Key ByteCode: 0x{(int)e.Key:X2}";
             //throw new NotImplementedException();
         }
 
-        private string? TryGetTranslate(KeyRoutedEventArgs key)
+        private static string TryGetTranslate(KeyRoutedEventArgs key)
         {
-            ResourceManager rm = new("KeyNames", typeof(EZHotKey.Windows.App).Assembly);
-            string? response = null;
+            string response = string.Empty;
             try
             {
-                response = rm.GetString(key.Key.ToString());
+                response = KeyNames.ResourceManager.GetString(key.Key.ToString());
             }
-            catch
+            catch (InvalidOperationException e)
             {
-                
+                // TODO: Fill this
             }
 
             return response;

@@ -1,10 +1,10 @@
 ﻿namespace EZHotKey.Core;
 
-public enum OS
+public enum OperatingSystem
 {
     None = -1,
     Unknown = 0,
     WindowsDesktop = 1,
     LinuxDesktop = 2,
-    MacOS = 3,
+    Mac = 3,
 }
